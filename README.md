@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm João Porto</h1>
 <h3 align="center">A machine learning engineer, tech nerd and distro hopper.</h3>
-I also have special interest in computer vision, electronics projects and procrastin...
+<p align="center">I also have special interest in computer vision, electronics projects and procrastin...</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stopitcarl" alt="stopitcarl" /></a> </p>
 
